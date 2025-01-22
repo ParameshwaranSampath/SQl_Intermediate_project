@@ -34,4 +34,6 @@ How much expenses does company spend for each category.
 
 Throughout that operations, Does company get profit or loss.
 
+Technologies used : language : SQL, Tool : MySQL
+
 Blog link : https://sqlintermediateproject.blogspot.com/2025/01/sql-intermediate-project-in-this-blog-i.html
